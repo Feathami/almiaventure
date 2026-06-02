@@ -10,7 +10,6 @@ classes avancées: Chorégrapheur, Coach, Designer, Toiletteur, Étoile Montante
 Le centre de la scène est l'endroit où être pour un Coordinateur. Que cela soit à un concours, où sur le champ de bataille, ils manipulent l'audience et leurs adversaires pour qu'ils leur prettent attention, qu'ils le veulent où non- mais ils le veulent vraiiiment beaucoup. Les Coordinateur ont le nez pour montrer le meilleur de chacun, et quand ils grandissent, ils deviennent des célébrités gagnant de multiples prix.
 
 # Général
-
 ## Stats favorites
 - Défense Spéciale
 - Vitesse

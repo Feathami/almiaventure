@@ -6,9 +6,8 @@ image: Classe_Ninja.png
 origine: Artiste Martial
 type: Classe Avancée
 ---
-
-# Général
 Les Ninjas s'entrainent à créer des ouvertures et dépasser ses adversaires. Ils foncent, déploient des recettes de leurs créations, et frappent avec des coups létaux pour éliminer les menaces. Ils peuvent disparaîtrent dans l'air, et poussent leurs limites pour créer un cocktail éblouissant qui te rends confus.
+# Général
 ## Compétences
 *En choisir 1 parmi :*
 - Acrobatie
