@@ -70,7 +70,7 @@ Choisis deux Stats de Dresseurs différentes à augmenter de 1 point.
 
 Gagne 1d4 de PV Max.
 
-Choisis une Classe Avancée de Top Dresseur ou une Classe de Base différente.
+Choisis une Classe Avancée de Coordinateur ou une Classe de Base différente.
 ## Niveau 4
 ### Lumières Scintillantes
 *Ce n'est pas des paillettes littérales, mais tu brilles d'une aura qui attire l'attention, et tu as appris à tes Pokémons à faire de même.*
@@ -109,7 +109,7 @@ Choisis deux Stats de Dresseurs différentes à augmenter de 1 point.
 
 Gagne 1d4 de PV Max.
 
-Choisis une Classe Avancée de Top Dresseur ou une Classe de Base différente.
+Choisis une Classe Avancée de Coordinateur ou une Classe de Base différente.
 ## Niveau 8
 ### Formation de Caractère
 *Afin de dresser les meilleurs Pokémons de concours, avoir une atitude saine pour chaque concours est la clef.*
@@ -160,7 +160,7 @@ Choisis deux Stats de Dresseurs différentes à augmenter de 1 point.
 
 Gagne 1d4 de PV Max.
 
-Choisis une Classe Avancée de Top Dresseur ou une Classe de Base différente.
+Choisis une Classe Avancée de Coordinateur ou une Classe de Base différente.
 ## Niveau 12
 ### Élégance, Sérénité, Style
 *Juste en marchant quelque part, toi et tes pokémons attirent le regard et vous savez faire première impression.*

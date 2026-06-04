@@ -57,7 +57,7 @@ Choisis deux Stats de Dresseurs différentes à augmenter de 1 point.
 
 Gagne 1d4 de PV Max.
 
-Choisis une Classe Avancée de Top Dresseur ou une Classe de Base différente.
+Choisis une Classe Avancée de Chercheur ou une Classe de Base différente.
 ## Niveau 4
 ### Confection de Repousse
 *Les études avancée de chimie et une grande connaissance des Pokémons te permet de créer des mélanges répulsifs pour les Pokémons non amical.*
@@ -83,7 +83,7 @@ Choisis deux Stats de Dresseurs différentes à augmenter de 1 point.
 
 Gagne 1d4 de PV Max.
 
-Choisis une Classe Avancée de Top Dresseur ou une Classe de Base différente.
+Choisis une Classe Avancée de Chercheur ou une Classe de Base différente.
 ## Niveau 8
 ### Lecture de combat
 *Une rapide étude des comportements des Pokémon peut donner beaucoup plus que son dresseur ne le voudrait.*
@@ -104,7 +104,7 @@ Choisis deux Stats de Dresseurs différentes à augmenter de 1 point.
 
 Gagne 1d4 de PV Max.
 
-Choisis une Classe Avancée de Top Dresseur ou une Classe de Base différente.
+Choisis une Classe Avancée de Chercheur ou une Classe de Base différente.
 ## Niveau 12
 ### Doctorat sur patte
 *Le savoir du monde te viens facilement et rien n'arrête ton intellectuel grandissant.*
